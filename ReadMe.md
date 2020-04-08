@@ -16,7 +16,7 @@ The directories and files are, in general, named as self-explanatorily as possib
 
 ## R Shiny App
 
-The R Shiny app for interactive visualizations of our results is hosted [here](http://rupamb.shinyapps.io/transprecise).
+The R Shiny app for interactive visualizations of our results is hosted [here](https://bayesrx.shinyapps.io/TransPRECISE/).
 
 ## Citation
 
